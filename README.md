@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jachapin
 - 👀 I’m interested in software testing
 - 🌱 I’m currently learning Selenium, C# .NET
-- 💞️ I’m looking to collaborate on whatever you are working on.
 - 📫 How to reach me jeffchapin at gmail
 
 <!---
